@@ -1,0 +1,10 @@
+streamlit
+pymongo[srv]
+sentence-transformers
+faiss-cpu
+langchain-ollama
+langchain-core
+pandas
+matplotlib
+wordcloud
+tqdm
