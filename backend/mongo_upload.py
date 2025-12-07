@@ -8,7 +8,7 @@ BATCH_SIZE = 1000
 # 1. MongoDB Atlas Connection
 # --------------------------
 client = MongoClient(
-    "mongodb+srv://Asif_pavel1:Qwerty123456@ragcluster1.rsfhnbh.mongodb.net/?retryWrites=true&w=majority"
+    "I have removed this."
 )
 
 db = client["amazon_reviews"]
